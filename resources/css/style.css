@@ -1,39 +1,39 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }
 
 .ta-center {
-    text-align: center;
+  text-align: center;
 }
 
 h1 {
-    font-size: 50px;
+  font-size: 50px;
 }
 
 h2 {
-    font-size: 42px;
-    font-weight: 300;
+  font-size: 42px;
+  font-weight: 300;
 }
 
 p {
-    font-size: 21px;
-    color: gray;
+  font-size: 21px;
+  color: gray;
 }
 
 a {
-    font-size: 16px;
-    color: aquamarine;
+  font-size: 16px;
+  color: aquamarine;
 }
 
 video {
-    object-fit: contain;
+  object-fit: contain;
 }
 
 .tar {
-    text-align: right;
-} 
+  text-align: right;
+}
