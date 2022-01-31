@@ -4,6 +4,7 @@
 
 body {
     background-color: black;
+    color: white;
 }
 
 .ta-center {
@@ -12,7 +13,16 @@ body {
 
 h1 {
     font-size: 50px;
-    color: white;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
 }
 
 a {
@@ -23,3 +33,7 @@ a {
 video {
     object-fit: contain;
 }
+
+.tar {
+    text-align: right;
+} 
