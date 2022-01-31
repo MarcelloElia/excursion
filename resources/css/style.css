@@ -19,3 +19,7 @@ a {
     font-size: 16px;
     color: aquamarine;
 }
+
+video {
+    object-fit: contain;
+}
